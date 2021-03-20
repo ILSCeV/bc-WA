@@ -19,9 +19,10 @@ STREAM_NIGHT_URLS[4]="https://streams.starfm.de/millennium_rock.mp3"
 STREAM_DAY_URLS[5]="https://stream.radioparadise.com/mp3-128"
 STREAM_NIGHT_URLS[5]="https://fm4.stream.laut.fm/fm4"
 STREAM_DAY_URLS[6]="https://stream.radioparadise.com/mp3-128"
-STREAM_NIGHT_URLS[6]="https://fm4.stream.laut.fm/fm4"
-STREAM_DAY_URLS[7]="https://stream.radioparadise.com/mp3-128"
-STREAM_NIGHT_URLS[7]="https://mp3.ffh.de/ffhchannels/hqsoundtrack.mp3"
+STREAM_NIGHT_URLS[6]="https://mp3.ffh.de/ffhchannels/hqsoundtrack.mp3"
+STREAM_DAY_URLS[7]="https://bob.hoerradar.de/radiobob-gothic-mp3-hq"
+STREAM_NIGHT_URLS[7]="https://usa15.fastcast4u.com/proxy/tstamate?mp=/stream?lang=de%2cen%3bq%3d0.7%2cen-US%3bq%3d0.3"
+
 
 PLACEHOLDER="--streamurl--"
 
