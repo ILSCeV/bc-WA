@@ -703,6 +703,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/broadcast.fem.tu-ilmenau.de\/events\/player-nas\/?sid=80wfHYDC8krnael0mupk&autoplay=true"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen; autoplay"
                 }],
          "type":"tilelayer",
          "visible":true,
