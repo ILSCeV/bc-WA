@@ -459,12 +459,22 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cgw.bc-club.de\/klo-cam\/"
+                 "value":"https:\/\/www.youtube.com\/embed\/qrNkU_3W7KM?controls=0&autoplay=1&rel=0"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen; autoplay"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccken sie die LEERTASTE um die Klocam zu \u00f6ffnen.\nPress SPACE to open the toilet cam."
                 }],
          "type":"tilelayer",
          "visible":true,
