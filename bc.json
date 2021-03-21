@@ -464,7 +464,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"fullscreen"
+                 "value":"fullscreen; autoplay"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
