@@ -1,12 +1,28 @@
 #!/usr/bin/env bash
 echo "replace Stream url"
-
+set -e
 declare -A STREAM_DAY_URLS
 declare -A STREAM_NIGHT_URLS
 declare STREAM_URL
 TZ=Europe/Berlin
 export TZ
-DOW=$(date +%u)
+
+function calculateDow {
+ local hod
+ hod=$(date +%H)
+ hod=${hod#0}
+ local dow
+ dow=$(date +%u)
+ if (( hod >= 0 && hod < 7 )); then
+   dow=$($dow-1)
+ fi
+ if (( dow == 0 )); then
+   dow=7
+ fi
+ echo $dow
+}
+
+DOW=$(calculateDow)
 
 STREAM_DAY_URLS[1]="https://stream.radioparadise.com/mp3-128"
 STREAM_NIGHT_URLS[1]="https://streams.radiobob.de/100/mp3-192/streams.radiobob.de/"
