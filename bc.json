@@ -384,7 +384,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/Ref-IT-VereinspraesentationTUI\/Messe_UL.json#Eingang_bc-Club"
+                 "value":"..\/Ref-IT-VereinspraesentationTUI\/Messe_UL.json#Eingang_bc-Club"
                 }],
          "type":"tilelayer",
          "visible":true,
