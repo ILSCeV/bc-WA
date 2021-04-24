@@ -590,7 +590,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.chefkoch.de\/rezepte\/1252351230474039\/Perfektes-Popcorn-salzig.html"
+                 "value":"https:\/\/www.kochbar.de\/rezept\/374555\/salziges-Popcorn.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -608,7 +608,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.chefkoch.de\/rezepte\/1252341230473990\/Perfektes-Popcorn-suess.html"
+                 "value":"https:\/\/www.kochbar.de\/rezept\/374552\/suesses-Popcorn-wie-im-kino.html"
                 }],
          "type":"tilelayer",
          "visible":true,
