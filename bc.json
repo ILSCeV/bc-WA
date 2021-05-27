@@ -869,11 +869,6 @@
                  "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"fullscreen; autoplay"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
