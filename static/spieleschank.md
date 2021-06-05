@@ -12,4 +12,6 @@ Here you will find a selection for community games.
 
 ## Multiplayer
 * <a href="https://garticphone.com/de/" target="_blank">garticphone</a> Eine kombination aus Stille Post und Zeichnen.
-* <a href="https://skribbl.io/" target="_blank">skribbl.io</a> Online Skribbl 
+* <a href="https://www.horsepaste.com/" target="_blank">https://www.horsepaste.com/</a> Codenames Online spielen
+* <a href="https://skribbl.io/" target="_blank">skribbl.io</a> Online Skribbl
+* <a href="https://boardgamearena.com/" target="_blank">https://boardgamearena.com/</a> Online Brettspiele
