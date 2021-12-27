@@ -374,6 +374,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"food_and_drinks",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 1.0 Universal"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
