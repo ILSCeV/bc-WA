@@ -78,7 +78,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"misc\/Notausgang.mp3"
+                 "value":"Notausgang.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
