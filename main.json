@@ -258,7 +258,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/misc\/Einlass.mp3"
+                 "value":"misc\/Einlass.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -276,7 +276,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/misc\/toilette.mp3"
+                 "value":"misc\/toilette.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
