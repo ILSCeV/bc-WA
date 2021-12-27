@@ -265,6 +265,12 @@
          "imagewidth":544,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"FSM, DeviantArt milkian"
+                }],
          "spacing":2,
          "tilecount":256,
          "tileheight":32,
