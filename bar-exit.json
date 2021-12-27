@@ -167,6 +167,12 @@
          "imagewidth":272,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC BY 4.0 by gfx0"
+                }],
          "spacing":2,
          "tilecount":64,
          "tileheight":32,
@@ -279,6 +285,15 @@
          "tilecount":2394,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC0 1.0 Universal"
+                        }]
+                }, 
                 {
                  "id":560,
                  "properties":[
