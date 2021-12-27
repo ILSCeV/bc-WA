@@ -502,7 +502,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/maps.world.fem-net.de\/campus\/campus.json#bc-entry"
+                 "value":"world:\/\/lobby\/floppy-landfill.json#start_bc-WA"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -654,6 +654,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Oh, was ist das hier? Vielleicht schaue ich mir das mal an."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -677,6 +682,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Oh, eine Galerie? Vielleicht schaue ich mir die mal an."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -700,6 +710,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Oh, eine Galerie? Vielleicht schaue ich mir die mal an."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -723,6 +738,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Oh, eine Galerie? Vielleicht schaue ich mir die mal an."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -746,6 +766,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Oh, eine Galerie? Vielleicht schaue ich mir die mal an."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1065,7 +1090,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
