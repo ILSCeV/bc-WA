@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"tresen-exit.json#Tresenexit"
+                 "value":"https:\/\/rc3.world\/2021\/room\/world-4cf7\/tresen-exit.json#Tresenexit"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"bc.json#bar"
+                 "value":"https:\/\/rc3.world\/2021\/room\/world-4cf7\/main.json#bar"
                 }],
          "type":"tilelayer",
          "visible":true,
