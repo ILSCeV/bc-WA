@@ -74,23 +74,51 @@
          "name":"badge",
          "objects":[
                 {
-                 "height":105.645933014354,
+                 "height":124.395933014354,
                  "id":1,
                  "name":"",
                  "properties":[
                         {
                          "name":"getBadge",
                          "type":"string",
-                         "value":"8cbKB65x8BuokJHo5SLaxAqal3LQY3fAkB6bUumkWQ8FOIGebx "
+                         "value":"8cbKB65x8BuokJHo5SLaxAqal3LQY3fAkB6bUumkWQ8FOIGebx"
                         }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":108.896577107103,
-                 "x":1765.0997423629,
-                 "y":526.604343025396
+                 "width":139.396577107103,
+                 "x":1744.3497423629,
+                 "y":514.104343025396
+                }, 
+                {
+                 "height":0,
+                 "id":3,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":1.5,
+                 "x":1869,
+                 "y":625.75
+                }, 
+                {
+                 "height":0,
+                 "id":5,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0.25,
+                 "x":1870.25,
+                 "y":627.5
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"8cbKB65x8BuokJHo5SLaxAqal3LQY3fAkB6bUumkWQ8FOIGebx"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -808,7 +836,7 @@
          "y":0
         }],
  "nextlayerid":89,
- "nextobjectid":2,
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
