@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":20,
  "infinite":false,
  "layers":[
@@ -49,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/rc3.world\/2021\/room\/world-4cf7\/tresen-exit.json#Tresenexit"
+                 "value":"tresen-exit.json#Tresenexit"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -67,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/rc3.world\/2021\/room\/world-4cf7\/main.json#bar"
+                 "value":"main.json#bar"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,7 +78,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/rc3.world\/2021\/room\/world-4cf7\/misc\/Notausgang.mp3"
+                 "value":"misc\/Notausgang.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -156,7 +149,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -482,6 +475,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":24
 }
