@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":46,
  "infinite":false,
  "layers":[
@@ -83,16 +76,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{\"startAudioOnly\": false}"
-                }, 
-                {
-                 "name":"jitsiInterfaceConfig",
-                 "type":"string",
-                 "value":"{ \"DEFAULT_BACKGROUND\": \"#791F08\" } "
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"sofablau"
@@ -110,16 +93,6 @@
          "name":"Jitsi Rumpelgasse",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{\"startAudioOnly\": false}"
-                }, 
-                {
-                 "name":"jitsiInterfaceConfig",
-                 "type":"string",
-                 "value":"{ \"DEFAULT_BACKGROUND\": \"#791F08\" } "
-                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -139,16 +112,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{\"startAudioOnly\": false}"
-                }, 
-                {
-                 "name":"jitsiInterfaceConfig",
-                 "type":"string",
-                 "value":"{ \"DEFAULT_BACKGROUND\": \"#791F08\" } "
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"sofagraugruen"
@@ -166,16 +129,6 @@
          "name":"Jitsi Sofa braunrot",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{\"startAudioOnly\": false}"
-                }, 
-                {
-                 "name":"jitsiInterfaceConfig",
-                 "type":"string",
-                 "value":"{ \"DEFAULT_BACKGROUND\": \"#791F08\" } "
-                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -195,16 +148,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{\"startAudioOnly\": false}"
-                }, 
-                {
-                 "name":"jitsiInterfaceConfig",
-                 "type":"string",
-                 "value":"{ \"DEFAULT_BACKGROUND\": \"#791F08\" } "
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"bar"
@@ -222,16 +165,6 @@
          "name":"Jitsi Klo Frauen",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{\"startAudioOnly\": false}"
-                }, 
-                {
-                 "name":"jitsiInterfaceConfig",
-                 "type":"string",
-                 "value":"{ \"DEFAULT_BACKGROUND\": \"#791F08\" } "
-                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -251,16 +184,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{\"startAudioOnly\": false}"
-                }, 
-                {
-                 "name":"jitsiInterfaceConfig",
-                 "type":"string",
-                 "value":"{ \"DEFAULT_BACKGROUND\": \"#791F08\" } "
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"KloMaenner"
@@ -278,16 +201,6 @@
          "name":"Jitsi Raucherbereich",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{\"startAudioOnly\": false}"
-                }, 
-                {
-                 "name":"jitsiInterfaceConfig",
-                 "type":"string",
-                 "value":"{ \"DEFAULT_BACKGROUND\": \"#791F08\" } "
-                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -307,16 +220,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{\"startAudioOnly\": false}"
-                }, 
-                {
-                 "name":"jitsiInterfaceConfig",
-                 "type":"string",
-                 "value":"{ \"DEFAULT_BACKGROUND\": \"#791F08\" } "
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"BrauneEcke"
@@ -334,16 +237,6 @@
          "name":"Jitsi Veteranentisch",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{\"startAudioOnly\": false}"
-                }, 
-                {
-                 "name":"jitsiInterfaceConfig",
-                 "type":"string",
-                 "value":"{ \"DEFAULT_BACKGROUND\": \"#791F08\" } "
-                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -419,7 +312,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"--streamurl--"
+                 "value":"placeholder"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -533,11 +426,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/qrNkU_3W7KM?controls=0&autoplay=1&rel=0"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen; autoplay"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -801,11 +689,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/broadcast.fem.tu-ilmenau.de\/events\/player-nas\/?sid=80wfHYDC8krnael0mupk&autoplay=true"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen; autoplay"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -842,11 +725,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/p1tt187.github.io\/bc-static-content\/dancefloor.html"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen; autoplay"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1013,7 +891,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -4939,6 +4817,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":68
 }
