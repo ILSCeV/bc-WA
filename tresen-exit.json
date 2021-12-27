@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/rc3.world\/2021\/room\/world-4cf7\/main.json#tresen"
+                 "value":"main.json#tresen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/rc3.world\/2021\/room\/world-4cf7\/bar-exit.json#Barexit"
+                 "value":"bar-exit.json#Barexit"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -78,7 +78,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/rc3.world\/2021\/room\/world-4cf7\/misc\/Notausgang.mp3"
+                 "value":"misc\/Notausgang.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
