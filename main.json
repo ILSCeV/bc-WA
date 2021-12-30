@@ -535,7 +535,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cgw.bc-club.de\/toilette-mosaik\/"
+                 "value":"https:\/\/ilscev.github.io\/bc-gallery\/klobild"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -693,12 +693,17 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cgw.bc-club.de\/campus-noir\/"
+                 "value":"https:\/\/ilscev.github.io\/bc-gallery\/neonparty\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Oh, eine Galerie? Vielleicht schaue ich mir die mal an."
                 }],
          "type":"tilelayer",
          "visible":true,
