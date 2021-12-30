@@ -818,6 +818,34 @@
         }, 
         {
          "draworder":"topdown",
+         "id":92,
+         "name":"chillstream",
+         "objects":[
+                {
+                 "height":138,
+                 "id":7,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":207,
+                 "x":717,
+                 "y":753
+                }],
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"url",
+                 "type":"string",
+                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/abchillgleis\/hls\/native"
+                }],
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
          "objects":[],
@@ -863,8 +891,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":92,
- "nextobjectid":7,
+ "nextlayerid":93,
+ "nextobjectid":8,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
