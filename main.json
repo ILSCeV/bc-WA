@@ -537,7 +537,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cgw.bc-club.de\/neonparty\/"
+                 "value":"https:\/\/ilscev.github.io\/bc-gallery\/neonparty\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -565,7 +565,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cgw.bc-club.de\/galerie-50-cgw-2019\/"
+                 "value":"https:\/\/ilscev.github.io\/bc-gallery\/cgw\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -593,7 +593,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cgw.bc-club.de\/frueher\/"
+                 "value":"https:\/\/ilscev.github.io\/bc-gallery\/damals\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
