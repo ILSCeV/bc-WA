@@ -113,12 +113,6 @@
                  "y":627.5
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"8cbKB65x8BuokJHo5SLaxAqal3LQY3fAkB6bUumkWQ8FOIGebx"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -840,6 +834,17 @@
         }, 
         {
          "draworder":"topdown",
+         "id":2,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":91,
          "name":"femstream",
          "objects":[
@@ -861,12 +866,6 @@
                  "y":695
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"url",
-                 "type":"string",
-                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/fem\/hls\/native"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -894,23 +893,6 @@
                  "x":717,
                  "y":753
                 }],
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"url",
-                 "type":"string",
-                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/abchillgleis\/hls\/native"
-                }],
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":2,
-         "name":"floorLayer",
-         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
