@@ -797,6 +797,12 @@
                  "height":106,
                  "id":6,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/fem\/hls\/native"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -825,6 +831,12 @@
                  "height":138,
                  "id":7,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/abchillgleis\/hls\/native"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
