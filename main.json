@@ -834,17 +834,6 @@
         }, 
         {
          "draworder":"topdown",
-         "id":2,
-         "name":"floorLayer",
-         "objects":[],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
          "id":91,
          "name":"femstream",
          "objects":[
@@ -893,6 +882,17 @@
                  "x":717,
                  "y":753
                 }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":2,
+         "name":"floorLayer",
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
