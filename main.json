@@ -845,7 +845,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/abchillgleis\/hls\/native"
+                         "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/c3lounge\/hls\/native"
                         }],
                  "rotation":0,
                  "type":"website",
