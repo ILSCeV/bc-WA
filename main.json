@@ -996,7 +996,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/c3lounge\/hls\/native"
+                         "value":"https:\/\/www.youtube.com\/embed\/RUDFevuaKt8"
                         }],
                  "rotation":0,
                  "type":"website",
@@ -1004,6 +1004,23 @@
                  "width":207,
                  "x":717,
                  "y":753
+                }, 
+                {
+                 "height":92,
+                 "id":8,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/broadcast.fem.tu-ilmenau.de\/events\/player-nas\/?sid=80wfHYDC8krnael0mupk"
+                        }],
+                 "rotation":0,
+                 "type":"website",
+                 "visible":true,
+                 "width":146,
+                 "x":1151,
+                 "y":704
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1059,7 +1076,7 @@
          "y":0
         }],
  "nextlayerid":93,
- "nextobjectid":8,
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
