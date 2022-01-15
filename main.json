@@ -1004,23 +1004,6 @@
                  "width":207,
                  "x":717,
                  "y":753
-                }, 
-                {
-                 "height":92,
-                 "id":8,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"https:\/\/broadcast.fem.tu-ilmenau.de\/events\/player-nas\/?sid=80wfHYDC8krnael0mupk"
-                        }],
-                 "rotation":0,
-                 "type":"website",
-                 "visible":true,
-                 "width":146,
-                 "x":1151,
-                 "y":704
                 }],
          "opacity":1,
          "type":"objectgroup",
